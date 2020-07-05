@@ -1,4 +1,4 @@
-[![clasp](https://img.shields.io/badge/built%20with-clasp-4285f4.svg)](https://github.com/google/clasp)
+[![clasp](https://img.shields.io/badge/built%20with-clasp-4285f4.svg)](https://github.com/google/clasp) [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lcenchew/gsuite-automation-setup)
 # Dev Container - Google Apps Script
 A setup for working on Google Apps Script in a VS Code or Gitpod container
 
@@ -42,7 +42,7 @@ Container composition
 
 ## Gitpod
 
-- Click on this button [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lcenchew/dev-container-gas)
+- Click on this button [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lcenchew/gsuite-automation-setup)
 - Sign in with yout Github account to start
 
 Container conposition
